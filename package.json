@@ -31,9 +31,9 @@
     "iban": "0.0.7",
     "iconv": "^2.2.1",
     "json2csv": "~3.11",
-    "lodash": "3.10.1",
+    "lodash": "^4.17.10",
     "moment": "^2.19.2",
-    "mongoose": "~4.9",
+    "mongoose": "^5.2.3",
     "mongoose-datatable": "latest",
     "mongoose-function": "latest",
     "mongoose-mpath": "^1.0.1",
@@ -59,7 +59,7 @@
     "xss-filters": "^1.2.6"
   },
   "devDependencies": {
-    "gulp": "latest",
+    "gulp": "^4.0.0",
     "gulp-header-license": "latest",
     "gulp-jsbeautifier": "latest",
     "gulp-rename": "latest"
