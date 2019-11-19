@@ -33,7 +33,7 @@
     "json2csv": "~3.11",
     "lodash": "^4.17.10",
     "moment": "^2.19.2",
-    "mongoose": "^5.2.3",
+    "mongoose": "^5.7.5",
     "mongoose-datatable": "latest",
     "mongoose-function": "latest",
     "mongoose-mpath": "^1.0.1",
