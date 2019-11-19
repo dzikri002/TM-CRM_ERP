@@ -31,7 +31,7 @@
     "iban": "0.0.7",
     "iconv": "^2.2.1",
     "json2csv": "~3.11",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.13",
     "moment": "^2.19.2",
     "mongoose": "^5.2.3",
     "mongoose-datatable": "latest",
